@@ -1,6 +1,11 @@
-### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
-
-    TU RESPUETA AQUI
+inicio levantarme 6am
+declaro tender cama
+bañarme
+vestirme
+tender cama
+hacer desayuno
+salir
+fin
 
 
 
